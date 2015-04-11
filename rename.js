@@ -1,3 +1,6 @@
-var response = prompt("What would you like to rename your tab to?");
+document.getElementById("response").addEventListener("input", changeTitle);
 
-document.title = response;
+function changeTitle() {
+	var response = document.getElementById("response").value;
+	document.title = response;
+}
