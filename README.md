@@ -1,2 +1,2 @@
 # RenameChromeTabs
-A Chrome extension to rename chrome tabs.
+A Chrome extension to rename Chrome tabs.
