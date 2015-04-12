@@ -1,4 +1,4 @@
-# Tab Rename
+# Tab Rename (http://tabrena.me/)
 A Chrome extension to rename Chrome tabs.
 
 # Installation instructions
